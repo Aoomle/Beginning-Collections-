@@ -6,4 +6,5 @@ pastries.append("cookie")
 pastries.append("danish")
 pastries += ["cupcake", "donut", "pie", "brownie"]
 
+
 //: [⇒ Next: 05 - Operating on Arrays](@next)
