@@ -5,6 +5,7 @@ let student: (name: String, age: Int) = ("Abdulmalik", 27)
 student.name
 student.age
 
+
 let studentData = (name: "Bobo", age: 27, petName: "Mango")
 
 studentData.name
